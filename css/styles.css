@@ -1,0 +1,22 @@
+
+   body {
+     background-color: #A5C9CA;
+     color: maroon;
+   }
+
+   hr {
+
+     border-style: dotted none none;
+     border-color: gray;
+     width: 10%;
+     border-width: 5px;
+
+
+   }
+   img{
+     height: 200px;
+     width: 200px;
+     border-radius: 300px;
+     border: 1px solid gray;
+
+   }
